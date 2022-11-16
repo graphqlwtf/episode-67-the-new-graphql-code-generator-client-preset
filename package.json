@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "codegen": "graphql-codegen --watch"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^2.13.12",
+    "@graphql-codegen/client-preset": "^1.1.4",
+    "typescript": "4.9.3"
+  },
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
+}
